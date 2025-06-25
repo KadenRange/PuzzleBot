@@ -1,0 +1,11 @@
+fen,played_move,best_move,category,motif,confidence,puzzle_fen,puzzle_moves,puzzle_rating,puzzle_motif
+r1bqkbnr/pppp1ppp/2n5/3Pp3/4P3/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,c6d4,c6e7,blunder,deflection,0.3788596987724304,8/p1k1r2p/1P3b2/1R1P1P2/1P3K2/8/8/8 b - - 0 53,a7b6 d5d6 c7d6 b5b6 d6d5 b6f6,898,deflection
+r1bqkbnr/pppp1ppp/8/3Pp3/3nP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 4,f1c4,c2c3,blunder,fork,0.3122093081474304,2rqk1nr/pp3ppp/4p3/3pP3/1b6/7P/PP1N1PP1/R1BQK2R b KQk - 2 12,d8c7 d1a4 e8d8 a4b4,864,fork
+r1bqkbnr/pp3ppp/2p5/1n2p3/2B1P3/2P5/PP3PPP/RNBQK1NR w KQkq - 0 7,d1f3,c4f7,blunder,fork,0.36203956604003906,1r4k1/4ppb1/p1qp2pp/2pNn3/2P5/P4PPP/3BQPK1/5R2 b - - 3 24,e7e6 d5e7 g8h7 e7c6,710,fork
+r2qk2r/p2nbppp/8/1Q2p2b/4P3/2P2P2/PP2N1PP/RNB1K2R w KQkq - 5 15,f3f4,e2g3,blunder,fork,0.3348371684551239,8/2R5/2p2bk1/2Np4/4p3/P7/1Pn1K3/8 w - - 1 49,c7c6 c2d4 e2e3 d4c6,797,fork
+r2qk2r/p2nbppp/8/1Q2p2b/4PP2/2P5/PP2N1PP/RNB1K2R b KQkq - 0 15,h5e2,a8b8,blunder,pin,0.37281426787376404,1r2k2r/3n1p2/p3p2p/4b1p1/P1P1P3/1Q2B2P/4K1P1/7R w k - 1 22,b3c2 b8b2 c2b2 e5b2,804,pin
+r2q1rk1/p2nbppp/8/1Q6/4PB2/2P5/PP2K1PP/RN5R w - - 1 18,h2h4,h1d1,blunder,fork,0.3691226840019226,r3r1k1/1p3pbp/pq2p1p1/3pP1Bn/5P2/2NP3P/PP2Q1P1/3RR2K w - - 1 19,d3d4 h5g3 h1h2 g3e2,857,fork
+r2q1rk1/p2nbppp/8/1Q6/4PB2/2P3P1/PP2K3/RN5R w - - 1 20,b5h5,h1d1,blunder,fork,0.36626720428466797,5bk1/2q2p2/7p/1p2pp1N/7P/1P3PP1/P5K1/1Q6 b - - 1 41,c7d7 h5f6 g8h8 f6d7,674,fork
+r2q1rk1/p4ppp/3b1n2/8/4PB2/2P3PQ/PP2K3/RN5R w - - 5 22,e4e5,b1d2,blunder,discoveredAttack,0.3645794093608856,8/5k2/p7/6b1/PP3p2/6p1/6K1/6R1 w - - 1 45,g1c1 f4f3 g2g3 g5c1,890,discoveredAttack
+r2q1rk1/p4ppp/5n2/4B3/8/2P3PQ/PP2K3/RN5R b - - 0 23,d8e7,f8e8,blunder,sacrifice,0.4600510895252228,1k1rr3/p4ppp/B1pq1n2/8/3Q4/8/PPP2PPP/R4K1R w - - 0 17,d4c3 d6d1 a1d1 d8d1 c3e1 d1e1,795,sacrifice
+r3r1k1/p3qppp/5n2/4BQ2/8/2P3P1/PP2K3/RN5R w - - 3 25,e2f3,e2d3,blunder,pin,0.542388916015625,2k3rr/2p5/1bR1p3/4P3/1P6/P2Q2n1/1B2PP2/5RK1 w - - 0 29,d3g3 g8g3,819,pin
