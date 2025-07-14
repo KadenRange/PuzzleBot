@@ -1,3 +1,3 @@
-# Chess AI for Predicting Opponent's Most Likely Next Move
+# Chess PuzzleBot
 ## By: Cooper Niebuhr, Crawford Young, Kaden Range
 ### For COMP 6600
